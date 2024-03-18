@@ -1,2 +1,6 @@
 # open-music-service
- backend fundamental
+minus tech implementation
+- amazon rds
+- amazon MQ
+- amazon s3
+- amazon elasticache

@@ -1,0 +1,5 @@
+open-music-be/.env
+open-music-be/.prod.env
+playlist-mailer-service/.env
+open-music-be/node_modules
+playlist-mailer-service/node_modules
